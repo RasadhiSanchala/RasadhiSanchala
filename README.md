@@ -110,15 +110,7 @@
 
 ---
 
-### ☕ Support Me
 
-<p>
-  <a href="https://www.buymeacoffee.com/Rasa">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
----
 
 ### 🌈 Let's Build Something Amazing Together!
 
