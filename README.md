@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Rasadhi Sanchala</h1>
-<h3 align="center">A Passionate Full-Stack Developer from Sri Lanka </h3>
+<h3 align="center">A Passionate Full-Stack Developer from Sri Lanka</h3>
+<h4 align="center">🎓 BSc (Hons) Software Engineering Undergraduate at University of Kelaniya</h4>
+
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/ed/3b/df/ed3bdf54b17c240c3a9607f2bffb2a4b.gif" alt="Fullstack Developer Girl" width="300"/>
