@@ -36,7 +36,7 @@
   <a href="https://stackoverflow.com/users/30024569" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" height="30" width="30" style="margin-right: 15px;" />
   </a>
-  <a href="https://facebook.com/rasadhi.sanchala" target="_blank">
+  <a href="(https://www.facebook.com/profile.php?id=100085066295719)" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="30" style="margin-right: 15px;" />
   </a>
   <a href="https://medium.com/@rasadhi1017" target="_blank">
